@@ -1,0 +1,7 @@
+seaborn
+tqdm
+hazm
+nltk
+pandas
+matplotlib
+numpy

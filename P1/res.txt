@@ -1,0 +1,504 @@
+index : 0
+input str : محموله اتمی با جت های پیشرفته از نیروگاه هسته ای مرکزی به نیروگاه هسته ای برده شدند.
+result : {'from': 'نیروگاه هسته ای مرکزی', 'from_span': (33, 54), 'to': 'نیروگاه هسته ای', 'to_span': (58, 73), 'vehicle': 'جت', 'vehicle_span': (15, 17)}
+detected_vehicle : جت
+v_span : (15, 17)
+tested_V_span : جت
+detected_from : نیروگاه هسته ای مرکزی
+s_span : (33, 54)
+tested_S_span : نیروگاه هسته ای مرکزی
+detected_to : نیروگاه هسته ای
+d_span : (58, 73)
+tested_D_span : نیروگاه هسته ای
+
+
+index : 1
+input str : روستاییان گوسفندان خود را با کامیون از ییلاق منطقه به قشلاق منطقه بردند.
+result : {'from': 'ییلاق منطقه', 'from_span': (39, 50), 'to': 'قشلاق منطقه', 'to_span': (54, 65), 'vehicle': 'کامیون', 'vehicle_span': (29, 35)}
+detected_vehicle : کامیون
+v_span : (29, 35)
+tested_V_span : کامیون
+detected_from : ییلاق منطقه
+s_span : (39, 50)
+tested_S_span : ییلاق منطقه
+detected_to : قشلاق منطقه
+d_span : (54, 65)
+tested_D_span : قشلاق منطقه
+
+
+index : 2
+input str : تیم امدادی مصدوم را با هلیکوپتر از صحنه‌ی تصادف به بیمارستان بردند.
+result : {'from': 'صحنه ی تصادف', 'from_span': (35, 47), 'to': 'بیمارستان', 'to_span': (51, 60), 'vehicle': 'هلیکوپتر', 'vehicle_span': (23, 31)}
+detected_vehicle : هلیکوپتر
+v_span : (23, 31)
+tested_V_span : هلیکوپتر
+detected_from : صحنه ی تصادف
+s_span : (35, 47)
+tested_S_span : صحنه‌ی تصادف
+detected_to : بیمارستان
+d_span : (51, 60)
+tested_D_span : بیمارستان
+
+
+index : 3
+input str : سالانه مهاجران زیادی در راه سفر به قبرس از خلیج فارس با کشتی شان غرق می‌شوند.
+result : {'from': 'خلیج فارس', 'from_span': (43, 52), 'to': 'قبرس', 'to_span': (35, 39), 'vehicle': 'کشتی', 'vehicle_span': (56, 60)}
+detected_vehicle : کشتی
+v_span : (56, 60)
+tested_V_span : کشتی
+detected_from : خلیج فارس
+s_span : (43, 52)
+tested_S_span : خلیج فارس
+detected_to : قبرس
+d_span : (35, 39)
+tested_D_span : قبرس
+
+
+index : 4
+input str : از تهران به قم آمدم.
+result : {'from': '', 'from_span': (-1, -1), 'to': '', 'to_span': (-1, -1), 'vehicle': '', 'vehicle_span': (-1, -1)}
+detected_vehicle : 
+v_span : (-1, -1)
+tested_V_span : 
+detected_from : 
+s_span : (-1, -1)
+tested_S_span : 
+detected_to : 
+d_span : (-1, -1)
+tested_D_span : 
+
+
+index : 5
+input str : از اصفهان با بنز آمدند شیراز.
+result : {'from': 'اصفهان', 'from_span': (3, 9), 'to': 'شیراز', 'to_span': (23, 28), 'vehicle': 'بنز', 'vehicle_span': (13, 16)}
+detected_vehicle : بنز
+v_span : (13, 16)
+tested_V_span : بنز
+detected_from : اصفهان
+s_span : (3, 9)
+tested_S_span : اصفهان
+detected_to : شیراز
+d_span : (23, 28)
+tested_D_span : شیراز
+
+
+index : 6
+input str : با خودروی تیبا به اصفهان از یزد رفتیم.
+result : {'from': 'یزد', 'from_span': (28, 31), 'to': 'اصفهان', 'to_span': (18, 24), 'vehicle': 'خودرو تیبا', 'vehicle_span': (3, 14)}
+detected_vehicle : خودرو تیبا
+v_span : (3, 14)
+tested_V_span : خودروی تیبا
+detected_from : یزد
+s_span : (28, 31)
+tested_S_span : یزد
+detected_to : اصفهان
+d_span : (18, 24)
+tested_D_span : اصفهان
+
+
+index : 7
+input str : با پراید به اصفهان رفتیم.
+result : {'from': '', 'from_span': (-1, -1), 'to': 'اصفهان', 'to_span': (12, 18), 'vehicle': 'پراید', 'vehicle_span': (3, 8)}
+detected_vehicle : پراید
+v_span : (3, 8)
+tested_V_span : پراید
+detected_from : 
+s_span : (-1, -1)
+tested_S_span : 
+detected_to : اصفهان
+d_span : (12, 18)
+tested_D_span : اصفهان
+
+
+index : 8
+input str : با پراید رفتیم اصفهان.
+result : {'from': '', 'from_span': (-1, -1), 'to': 'اصفهان', 'to_span': (15, 21), 'vehicle': 'پراید', 'vehicle_span': (3, 8)}
+detected_vehicle : پراید
+v_span : (3, 8)
+tested_V_span : پراید
+detected_from : 
+s_span : (-1, -1)
+tested_S_span : 
+detected_to : اصفهان
+d_span : (15, 21)
+tested_D_span : اصفهان
+
+
+index : 9
+input str : با پراید رفتیم.
+result : {'from': '', 'from_span': (-1, -1), 'to': '', 'to_span': (-1, -1), 'vehicle': 'پراید', 'vehicle_span': (3, 8)}
+detected_vehicle : پراید
+v_span : (3, 8)
+tested_V_span : پراید
+detected_from : 
+s_span : (-1, -1)
+tested_S_span : 
+detected_to : 
+d_span : (-1, -1)
+tested_D_span : 
+
+
+index : 10
+input str : من با قطار از تهران به اصفهان می‌روم.
+result : {'from': 'تهران', 'from_span': (14, 19), 'to': 'اصفهان', 'to_span': (23, 29), 'vehicle': 'قطار', 'vehicle_span': (6, 10)}
+detected_vehicle : قطار
+v_span : (6, 10)
+tested_V_span : قطار
+detected_from : تهران
+s_span : (14, 19)
+tested_S_span : تهران
+detected_to : اصفهان
+d_span : (23, 29)
+tested_D_span : اصفهان
+
+
+index : 11
+input str : چون بلیط قطار پر شده بود مجبور شدم با پرایدم به تهران بروم.
+result : {'from': '', 'from_span': (-1, -1), 'to': 'تهران', 'to_span': (48, 53), 'vehicle': 'پراید', 'vehicle_span': (38, 43)}
+detected_vehicle : پراید
+v_span : (38, 43)
+tested_V_span : پراید
+detected_from : 
+s_span : (-1, -1)
+tested_S_span : 
+detected_to : تهران
+d_span : (48, 53)
+tested_D_span : تهران
+
+
+index : 12
+input str : من و خواهرم تیبا معمولا با هواپیما مسافرت می‌کنیم.
+result : {'from': '', 'from_span': (-1, -1), 'to': '', 'to_span': (-1, -1), 'vehicle': 'هواپیما', 'vehicle_span': (27, 34)}
+detected_vehicle : هواپیما
+v_span : (27, 34)
+tested_V_span : هواپیما
+detected_from : 
+s_span : (-1, -1)
+tested_S_span : 
+detected_to : 
+d_span : (-1, -1)
+tested_D_span : 
+
+
+index : 13
+input str : در حال رانندگی با خودرو تیبا هستم.
+result : {'from': '', 'from_span': (-1, -1), 'to': '', 'to_span': (-1, -1), 'vehicle': 'خودرو تیبا', 'vehicle_span': (18, 28)}
+detected_vehicle : خودرو تیبا
+v_span : (18, 28)
+tested_V_span : خودرو تیبا
+detected_from : 
+s_span : (-1, -1)
+tested_S_span : 
+detected_to : 
+d_span : (-1, -1)
+tested_D_span : 
+
+
+index : 14
+input str : از تهران با پراید پدرم به اصفهان رفتیم.
+result : {'from': 'تهران', 'from_span': (3, 8), 'to': 'اصفهان', 'to_span': (26, 32), 'vehicle': 'پراید', 'vehicle_span': (12, 17)}
+detected_vehicle : پراید
+v_span : (12, 17)
+tested_V_span : پراید
+detected_from : تهران
+s_span : (3, 8)
+tested_S_span : تهران
+detected_to : اصفهان
+d_span : (26, 32)
+tested_D_span : اصفهان
+
+
+index : 15
+input str : از مشهد با تیبای خواهرم به اصفهان رفتیم.
+result : {'from': 'مشهد', 'from_span': (3, 7), 'to': 'اصفهان', 'to_span': (27, 33), 'vehicle': 'تیبا', 'vehicle_span': (11, 15)}
+detected_vehicle : تیبا
+v_span : (11, 15)
+tested_V_span : تیبا
+detected_from : مشهد
+s_span : (3, 7)
+tested_S_span : مشهد
+detected_to : اصفهان
+d_span : (27, 33)
+tested_D_span : اصفهان
+
+
+index : 16
+input str : من و خواهرم تیبا با تیبا از اصفهان به مرکز شهر رفتیم.
+result : {'from': 'اصفهان', 'from_span': (28, 34), 'to': 'مرکز شهر', 'to_span': (38, 46), 'vehicle': 'تیبا', 'vehicle_span': (20, 24)}
+detected_vehicle : تیبا
+v_span : (20, 24)
+tested_V_span : تیبا
+detected_from : اصفهان
+s_span : (28, 34)
+tested_S_span : اصفهان
+detected_to : مرکز شهر
+d_span : (38, 46)
+tested_D_span : مرکز شهر
+
+
+index : 17
+input str : با پراید دنده اتومات پدرم به خونه برادر عموم رفتیم.
+result : {'from': '', 'from_span': (-1, -1), 'to': 'خونه برادر عموم', 'to_span': (29, 44), 'vehicle': 'پراید', 'vehicle_span': (3, 8)}
+detected_vehicle : پراید
+v_span : (3, 8)
+tested_V_span : پراید
+detected_from : 
+s_span : (-1, -1)
+tested_S_span : 
+detected_to : خونه برادر عموم
+d_span : (29, 44)
+tested_D_span : خونه برادر عموم
+
+
+index : 18
+input str : ما با پراید عموم و سمند برادرم از مشهد به اصفهان سفر کردیم.
+result : {'from': 'مشهد', 'from_span': (34, 38), 'to': 'اصفهان', 'to_span': (42, 48), 'vehicle': 'پراید', 'vehicle_span': (6, 11)}
+detected_vehicle : پراید
+v_span : (6, 11)
+tested_V_span : پراید
+detected_from : مشهد
+s_span : (34, 38)
+tested_S_span : مشهد
+detected_to : اصفهان
+d_span : (42, 48)
+tested_D_span : اصفهان
+
+
+index : 19
+input str : از تهران با دویست و شش برادر دوستم به خونه عموی پدرم رفتیم.
+result : {'from': 'تهران', 'from_span': (3, 8), 'to': 'خونه', 'to_span': (38, 42), 'vehicle': 'دویست و شش', 'vehicle_span': (12, 22)}
+detected_vehicle : دویست و شش
+v_span : (12, 22)
+tested_V_span : دویست و شش
+detected_from : تهران
+s_span : (3, 8)
+tested_S_span : تهران
+detected_to : خونه
+d_span : (38, 42)
+tested_D_span : خونه
+
+
+index : 20
+input str : از امریکا به مام وطن سفر کرد.
+result : {'from': '', 'from_span': (-1, -1), 'to': '', 'to_span': (-1, -1), 'vehicle': '', 'vehicle_span': (-1, -1)}
+detected_vehicle : 
+v_span : (-1, -1)
+tested_V_span : 
+detected_from : 
+s_span : (-1, -1)
+tested_S_span : 
+detected_to : 
+d_span : (-1, -1)
+tested_D_span : 
+
+
+index : 21
+input str : از کشور بیگانگان با هواپیما به مام وطن بازگشت.
+result : {'from': 'کشور بیگانگان', 'from_span': (3, 16), 'to': 'مام وطن', 'to_span': (31, 38), 'vehicle': 'هواپیما', 'vehicle_span': (20, 27)}
+detected_vehicle : هواپیما
+v_span : (20, 27)
+tested_V_span : هواپیما
+detected_from : کشور بیگانگان
+s_span : (3, 16)
+tested_S_span : کشور بیگانگان
+detected_to : مام وطن
+d_span : (31, 38)
+tested_D_span : مام وطن
+
+
+index : 22
+input str : من و برادرم هر روز از کنار خلیج به وسط دریا برای گرفتن ماهی با لنج کوچکمان می‌رویم.
+result : {'from': 'کنار خلیج', 'from_span': (22, 31), 'to': 'وسط دریا', 'to_span': (35, 43), 'vehicle': 'لنج', 'vehicle_span': (63, 66)}
+detected_vehicle : لنج
+v_span : (63, 66)
+tested_V_span : لنج
+detected_from : کنار خلیج
+s_span : (22, 31)
+tested_S_span : کنار خلیج
+detected_to : وسط دریا
+d_span : (35, 43)
+tested_D_span : وسط دریا
+
+
+index : 23
+input str : تیم امدادی مادربزرگم را از حیاط پشتیش با هلیکوپتر شان به بیمارستان بردند.
+result : {'from': 'حیاط پشت', 'from_span': (27, 35), 'to': 'بیمارستان', 'to_span': (57, 66), 'vehicle': 'هلیکوپتر', 'vehicle_span': (41, 49)}
+detected_vehicle : هلیکوپتر
+v_span : (41, 49)
+tested_V_span : هلیکوپتر
+detected_from : حیاط پشت
+s_span : (27, 35)
+tested_S_span : حیاط پشت
+detected_to : بیمارستان
+d_span : (57, 66)
+tested_D_span : بیمارستان
+
+
+index : 24
+input str : استاد بزرگوار هر روز با ماشین از خانه‌ اش به دانشگاه صنعتی شریف می‌رود.
+result : {'from': 'خانه اش', 'from_span': (33, 40), 'to': 'دانشگاه صنعتی شریف', 'to_span': (44, 62), 'vehicle': 'ماشین', 'vehicle_span': (24, 29)}
+detected_vehicle : ماشین
+v_span : (24, 29)
+tested_V_span : ماشین
+detected_from : خانه اش
+s_span : (33, 40)
+tested_S_span : خانه اش
+detected_to : دانشگاه صنعتی شریف
+d_span : (44, 62)
+tested_D_span : دانشگاه صنعتی شریف
+
+
+index : 25
+input str : تیم امدادی مادربزرگم را از حیاط پشتیش با هلیکوپترشان به بیمارستان بردند.
+result : {'from': 'حیاط پشت', 'from_span': (27, 35), 'to': 'بیمارستان', 'to_span': (56, 65), 'vehicle': 'هلیکوپتر', 'vehicle_span': (41, 49)}
+detected_vehicle : هلیکوپتر
+v_span : (41, 49)
+tested_V_span : هلیکوپتر
+detected_from : حیاط پشت
+s_span : (27, 35)
+tested_S_span : حیاط پشت
+detected_to : بیمارستان
+d_span : (56, 65)
+tested_D_span : بیمارستان
+
+
+index : 26
+input str : کشتی صلیب سرخ محموله های کمکی را از ایران به افغانستان منتقل کرد.
+result : {'from': 'ایران', 'from_span': (36, 41), 'to': 'افغانستان', 'to_span': (45, 54), 'vehicle': 'کشتی', 'vehicle_span': (0, 4)}
+detected_vehicle : کشتی
+v_span : (0, 4)
+tested_V_span : کشتی
+detected_from : ایران
+s_span : (36, 41)
+tested_S_span : ایران
+detected_to : افغانستان
+d_span : (45, 54)
+tested_D_span : افغانستان
+
+
+index : 27
+input str : پدرم با پراید آمد اصفهان.
+result : {'from': '', 'from_span': (-1, -1), 'to': 'اصفهان', 'to_span': (18, 24), 'vehicle': 'پراید', 'vehicle_span': (8, 13)}
+detected_vehicle : پراید
+v_span : (8, 13)
+tested_V_span : پراید
+detected_from : 
+s_span : (-1, -1)
+tested_S_span : 
+detected_to : اصفهان
+d_span : (18, 24)
+tested_D_span : اصفهان
+
+
+index : 28
+input str : از خراسان رضوی با فولکس به روستاهای شمالی رفتیم.
+result : {'from': 'خراسان رضوی', 'from_span': (3, 14), 'to': 'روستا شمال', 'to_span': (27, 40), 'vehicle': 'فولکس', 'vehicle_span': (18, 23)}
+detected_vehicle : فولکس
+v_span : (18, 23)
+tested_V_span : فولکس
+detected_from : خراسان رضوی
+s_span : (3, 14)
+tested_S_span : خراسان رضوی
+detected_to : روستا شمال
+d_span : (27, 40)
+tested_D_span : روستاهای شمال
+
+
+index : 29
+input str : با موتور هندا به اصفهان رفتیم.
+result : {'from': '', 'from_span': (-1, -1), 'to': 'اصفهان', 'to_span': (17, 23), 'vehicle': 'موتور', 'vehicle_span': (3, 8)}
+detected_vehicle : موتور
+v_span : (3, 8)
+tested_V_span : موتور
+detected_from : 
+s_span : (-1, -1)
+tested_S_span : 
+detected_to : اصفهان
+d_span : (17, 23)
+tested_D_span : اصفهان
+
+
+index : 30
+input str : با موتورسیکلت از شهر های مرکزی ایران به تهران آمد.
+result : {'from': 'شهر های مرکزی ایران', 'from_span': (17, 36), 'to': 'تهران', 'to_span': (40, 45), 'vehicle': 'موتورسیکلت', 'vehicle_span': (3, 13)}
+detected_vehicle : موتورسیکلت
+v_span : (3, 13)
+tested_V_span : موتورسیکلت
+detected_from : شهر های مرکزی ایران
+s_span : (17, 36)
+tested_S_span : شهر های مرکزی ایران
+detected_to : تهران
+d_span : (40, 45)
+tested_D_span : تهران
+
+
+index : 31
+input str : با سه‌چرخه از کوچه‌ی بالا به کوچه‌ی پایین آند.
+result : {'from': 'کوچه ی بالا', 'from_span': (14, 25), 'to': 'کوچه ی پایین', 'to_span': (29, 41), 'vehicle': 'سه چرخه', 'vehicle_span': (3, 10)}
+detected_vehicle : سه چرخه
+v_span : (3, 10)
+tested_V_span : سه‌چرخه
+detected_from : کوچه ی بالا
+s_span : (14, 25)
+tested_S_span : کوچه‌ی بالا
+detected_to : کوچه ی پایین
+d_span : (29, 41)
+tested_D_span : کوچه‌ی پایین
+
+
+index : 32
+input str : از بندرعباس تا شمال را با دوچرخه رکاب زدیم.
+result : {'from': 'بندرعباس', 'from_span': (3, 11), 'to': '', 'to_span': (-1, -1), 'vehicle': 'دوچرخه', 'vehicle_span': (26, 32)}
+detected_vehicle : دوچرخه
+v_span : (26, 32)
+tested_V_span : دوچرخه
+detected_from : بندرعباس
+s_span : (3, 11)
+tested_S_span : بندرعباس
+detected_to : 
+d_span : (-1, -1)
+tested_D_span : 
+
+
+index : 33
+input str : هنگام انتتقال مصدوم از بیمارستان به خانه‌ی پدر با ماشین امدادی مصدوم مرد.
+result : {'from': 'بیمارستان', 'from_span': (23, 32), 'to': 'خانه ی پدر', 'to_span': (36, 46), 'vehicle': 'ماشین', 'vehicle_span': (50, 55)}
+detected_vehicle : ماشین
+v_span : (50, 55)
+tested_V_span : ماشین
+detected_from : بیمارستان
+s_span : (23, 32)
+tested_S_span : بیمارستان
+detected_to : خانه ی پدر
+d_span : (36, 46)
+tested_D_span : خانه‌ی پدر
+
+
+index : 34
+input str : سوار ماشین پراید شدم.
+result : {'from': '', 'from_span': (-1, -1), 'to': '', 'to_span': (-1, -1), 'vehicle': 'ماشین', 'vehicle_span': (5, 10)}
+detected_vehicle : ماشین
+v_span : (5, 10)
+tested_V_span : ماشین
+detected_from : 
+s_span : (-1, -1)
+tested_S_span : 
+detected_to : 
+d_span : (-1, -1)
+tested_D_span : 
+
+
+index : 35
+input str : آمدم تبریز با پراید برادر از رشت.
+result : {'from': 'رشت', 'from_span': (29, 32), 'to': 'تبریز', 'to_span': (5, 10), 'vehicle': 'پراید', 'vehicle_span': (14, 19)}
+detected_vehicle : پراید
+v_span : (14, 19)
+tested_V_span : پراید
+detected_from : رشت
+s_span : (29, 32)
+tested_S_span : رشت
+detected_to : تبریز
+d_span : (5, 10)
+tested_D_span : تبریز
+
+

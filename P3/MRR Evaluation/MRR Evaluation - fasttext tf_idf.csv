@@ -1,0 +1,170 @@
+fasttext tf_idf,Bagheri,Majidi,Kousheshi,avg Bagheri,avg Majidi,avg Kousheshi,AVG ALL
+"q1 = ""natural language processing data augmentation""",,,,,,,
+bb98ac25d22626b9bb383b9270e5256c0413c649,1,1,1,,,,
+860ac6363bc6fd6aef728b3adfb517f798795dcd,1,1,1,,,,
+45048eee994bffe8915e905ab5c24e34512fb4a1,1,1,1,,,,
+013eb12ce5468f79d58bf859653f4929c5a2bd14,1,1,1,,,,
+4883e7cfd909437106e48f03506a1f07de63b161,1,1,1,,,,
+4bb571fe9bde23289132cf46cdfe4753ea57b743,1,1,1,,,,
+c2a79e2a65b721d4de5f6d4806323174b9f8f393,1,1,1,,,,
+02f3c052a9cf675a6f033eac56c9dacb0a10ea28,1,1,1,,,,
+237992be146743e9858f8035dbbe92421ff9a889,,,1,,,,
+2db01b9466e4251a2140fc2ef9d216417b48cbe4,1,1,1,0.9,0.9,1,0.93
+"q2 = ""using tweets in Persian/Farsi on COVID-19
+analyzing the topics discussed among users,
+ to gauge and track the response to the pandemic
+ and how it evolved over time.
+ classify the contents and frequency of each category of topics""",,,,,,,
+0f91f083101ca5c322d2973121bd0325b8ddde10,1,1,1,,,,
+2f2b34d51d9b0c8efe93688990d2e237af9e8543,1,1,1,,,,
+24f0c288d51ff334ef69868f5ad56c5f67f2038d,1,1,1,,,,
+b7765bf4f8ea1d7cd4a16835806bedc02b688aa8,,,,,,,
+bfd65de371e24b7a6e4314a601d4a204a50cb008,1,1,,,,,
+a5defd3eb9f99d7b423c65e251a65cebf51d627f,,,,,,,
+0a60150526e9dbd55c26b3e8ced4d0e0fede4517,,,,,,,
+a5e747bfe100e4ab0eebceaf3dcb0c00334f6f65,1,1,1,,,,
+a25b43b96b5b2b12e2b617d632a9d251c48dde31,,,,,,,
+956cc65a5fa297d9e38c5d1da910fa6de02bdf0c,1,1,1,0.6,0.6,0.5,0.56
+"q3 = ""The growth of social web contributes vast amount
+ of user generated content such as customer reviews,
+ comments and opinions.""",,,,,,,
+667db5aa6d76425a98eb4ca259d873ca947744be,1,1,1,,,,
+b407ed5ff349acb594c69063aa023fc4634c0320,1,1,1,,,,
+150c1de556618fb278b3a3beed04b327edd34a3c,1,,,,,,
+a5ae9f992264908e51c7925280f42ee17a500858,,,,,,,
+276f3933bedcc99cfab25e3f2bfb241beeef89af,1,1,1,,,,
+ff674457cf463870deda82c872640103707138c4,,1,1,,,,
+61a974f83254ae7979d1f53e9f8093bae65dab1a,1,1,1,,,,
+902f9ec68d50495c85d9921cd38db9c7f5f5ea5b,1,1,,,,,
+b627618c8e61e93e8816711b972fdfc26fd55901,1,,1,,,,
+49b2a4fab5f2bc1a816fb8e5c82db64d1b7828a2,1,1,1,0.8,0.7,0.7,0.73
+"q4 = ""Inspiring selective molecular transport in the nuclear
+ pore complex, a system that can separate
+ proteins using a facilitated diffusion-based
+ mechanism is developed. The system is comprised of two
+ components: nuclear transporter receptors
+ complexes due to the physical
+ binding between hydrophobic Phe-Gly sequences
+ in the protein polymer network
+ and the NTR.""",,,,,,,
+4497daee71ee45a92835c5bd47f3b90d99463d7a,1,1,1,,,,
+eff32338454ba354c0113b851a0a4811d39d064a,1,1,,,,,
+b056aa66c89e9295763eaa306d18611ad1fe8f8f,1,1,1,,,,
+be2138dbe303b0e6f1eada17fddb0211301c66d5,1,1,,,,,
+0a1a4c254fc1718178bf9fd9f2051e8ebd957a00,1,1,,,,,
+be38c24d97e0e593821fe0d91623034d705e9dfe,1,1,1,,,,
+f08d48da762228f7344024ecfa91abb7dd74df90,,,,,,,
+8397077f885cabb67ca26b85182a6361a1f3f9ed,1,,,,,,
+4261d18723cfb7df2ab45e281188358b341a6902,,,,,,,
+2137ea33293a7474d067d1ad84a064bf051f8d19,1,1,,0.8,0.7,0.3,0.6
+"q5 = ""homogenization receiving pretest of English
+ grammar proficiency.The experimental group received
+ instructionon English passive sentences
+ using the NLP control group were
+ instructed in the traditional
+ explicit tutorials. paired-sample t test for
+ the experimental group.""",,,,,,,
+b01272dc678b42a38227208943bda5d50f35ffef,,,,,,,
+bd869783571bae1aa4315031ecfe65b73942ca4e,1,1,1,,,,
+d3dc5c3acfd428a448e3a475ced85da11f66eef0,1,1,1,,,,
+6c0ab93d6c40d94062fd06dd52f1fc1766f1b834,,1,1,,,,
+bc26bdca7143913c3f0f17e437cf0df83d3346a8,,,,,,,
+5a2e45ce35fb26ab70a61b424a49f8e5b4532a8e,1,1,1,,,,
+7b486a6eac4b46cf39e41c97b25ea22c5d27a883,1,1,,,,,
+1bc51ed093ee42af828efde127e975b997c8197d,1,1,1,,,,
+f45119c0a03a71f100ca1b5c0eb4401c52518606,1,1,1,,,,
+c388188112d296b66666b23d1f6bce040169c8bf,,,,0.6,0.7,0.6,0.63
+"q6 = ""systems for retrieving and ranking relevant records implementation
+ of Cohort Retrieval Enhanced by Analysis of Text from EHRs,
+ a cohort retrieval system that can execute textual cohort selection queries
+ on both structured and unstructured EHR data.
+ leverageting a combination of structured queries and IR techniques
+ on NLP results to improve cohort retrieval performance while adopting
+ the Observational Medical Outcomes Partnership Common Data Model
+ to enhance model portability.""",,,,,,,
+778394117647a350aaeccd9a8034e5f16bff8999,,,,,,,
+a98fe472409e1ccea4422819497daf887626dc3a,,,,,,,
+65825b3c04e30d845dea2ea022cbad9df2536a8b,1,1,1,,,,
+2d21c9c4d1e49e2dc45c86ab890c2a79b4e8fc2b,1,1,1,,,,
+8d706495daaca770b3dfe59a6ab75814dd8bdeba,1,1,1,,,,
+5facfae0dbeed11766cc24aacd29f3b1ed5ac96e,1,1,1,,,,
+c6585698b4ec257bf953d684ab4c88d16de9adb1,1,1,1,,,,
+3f3df9bef531d24206eac2ff253932c50b50daeb,1,1,1,,,,
+d0f9d7b772f8785479fb08eee0294094a49e1207,,,,,,,
+23c96908e24f8e930277a3d52dd3f66a013fabf8,,1,1,0.6,0.7,0.7,0.66
+"q7 = ""In sequence-to-sequence problems such as the neural
+ machine translation,
+ the initial proposals were based on the use of RNNs
+ in an encoder-decoder architecture.
+ These architectures have a great limitation when working
+ with long sequences,
+ their ability to retain information from
+ the first elements was
+ lost when new elements were incorporated
+ into the sequence. In the encoder,
+ the hidden state in every step is associated with a certain word in the input sentence,
+ usually one of the most recent. Therefore, if the decoder only accesses the
+ last hidden state of the decoder, it will lose relevant information about the
+ first elements of the sequence. Then to deal with this limitation,
+ a new concept were introduced the attention mechanism.""(Internet)",,,,,,,
+b3dadf303cc696d4e275f6eadd43b7714816681d,1,1,1,,,,
+c3d8d98847bd33fa48bc6448316f78ed7f131afe,,,,,,,
+4cf963e5fd88825ac62ad6cce364447e5d2dfb2b,1,1,1,,,,
+d2da66238e3f9ea48c63d65d1b7f7854a956cd10,,,,,,,
+370a5f4b305540f35821d2179c384f95f5a63eee,,,,,,,
+f11198dc277af1c5547ab3ae8d562fc8c16a7c70,1,1,1,,,,
+bae0df533e8bc923d383baead1760fef28049e61,,1,1,,,,
+612a42e2fa4c33b609aade451528d3c11989f88a,,,,,,,
+3cee801d10f410f0feb1a2390776a01ba2765001,1,1,,,,,
+845cafab91da3441d56a8740f0c8038916863dcb,,,,0.4,0.5,0.4,0.43
+"q8 = ""classic RNNs can keep track of arbitrary long-term dependencies
+ in the input sequences. The problem with vanilla RNNs is computational
+ in nature: when training a vanilla RNN using back-propagation,
+ the long-term gradients which are back-propagated can vanish
+ or explode, because of the computations involved in the process,
+ which use finite-precision numbers. RNNs using LSTM units partially
+ solve the vanishing gradient problem, because LSTM units allow
+ gradients to also flow unchanged.""(Internet)",,,,,,,
+0d895b63a26efce0a346e637d7fa5074e620e4e9,1,1,1,,,,
+629feacc0f099f72618e7df7f48ee44f99c46f38,1,1,1,,,,
+8b9d77d5e52a70af37451d3db3d32781b83ea054,,,1,,,,
+845cafab91da3441d56a8740f0c8038916863dcb,,,,,,,
+a9d3e102074ffa6a94eab923a1077e38bb5ac0a5,,,,,,,
+fa7b8acd47631bada5b66049824bfd335ac6bf8f,,,,,,,
+58ef9f9682c0ae4561dc30079a52867f108f704e,,,,,,,
+c69a5a26f9bd972414980798f6346f3d19ba1895,1,1,1,,,,
+52eacf2fc8a441f7a1a3889ab221f6c4d681adfb,,,,,,,
+4cf963e5fd88825ac62ad6cce364447e5d2dfb2b,1,1,1,0.4,0.4,0.5,0.43
+"q9 = ""canonical form dictionary form or citation form of a set
+ of words In English, for example, break, breaks, broke, broken
+ and breaking are forms of the same lexeme, with break as the lemma
+ by which they are indexed. Lexeme, in this context, refers
+ to the set of all the forms that have the same meaning, and lemma
+ refers to the particular form that is chosen by convention to
+ represent the lexeme.""(Internet)",,,,,,,
+3cc3815bbd3d64adfc4a512f36c192c7307af5a9,1,1,1,,,,
+69f9fd55282e5fa8c276e7d7321e05e753da6b46,1,1,1,,,,
+42732aa246ec02df9b202c1871ababffe4dc11af,1,1,1,,,,
+da0584473be74abb23f77dd2b0fa69c3060a074e,1,1,1,,,,
+5f51b7911f10c0a21adedee3dafcb74a69ad3e05,1,1,1,,,,
+a6d9db73b761896c4f52cec17caf3653e0930cb1,,1,1,,,,
+a7f349fca2484c0e23d4a2d57217da8a8bc1372c,,,,,,,
+98362d87a1e7186c36d7b7acf5ad3839837f3c09,1,1,,,,,
+1d8bb078a86b1999805605b71a8ffe410bda4714,1,1,1,0.7,0.8,0.7,0.73
+70c0bbece96ab013050e10ece778ef857858bde6,,,,,,,
+"q10 = ""statistical measure that evaluates how relevant a word is to a
+ document in a collection of documents. This is done
+ by multiplying two metrics: how many times a word
+ appears in a document, and the inverse document
+ frequency of the word across a set of documents.""(Internet)",,,,,,,
+54936542e492318db8f0b726090ceace02448df2,,,,,,,
+1aa8ad634d1879af9b5ac34b44ecc3de8debd276,,,,,,,
+bf1bd2dfb4e08868d7e55d1b6fe553761b2299a3,1,,,,,,
+2df125259a1fd1e15e8fe6992f712ac24bf98dcb,,,,,,,
+1c30ed337cdcee7e0fffb4fb586a3066e7c92a8a,1,1,1,,,,
+656ed155c2d345c19d9bff4b50f2ae00db8407cc,,,,,,,
+20cb82dde39c892a68125ecab64fb6984f2dad04,,,,,,,
+3bb2b7e168705227df7b0d1923bb74a6dac629b5,1,1,,,,,
+e5e6059b26728b1f9a888a8fd5a017b2ec00915d,,,,,,,
+98050eeda3b79a18f555480881e1f3bc7d447882,,,,0.3,0.3,0.1,0.23
+MEAN ALL ,,,,0.61,0.63,0.55,0.593
